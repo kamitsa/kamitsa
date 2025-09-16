@@ -10,8 +10,11 @@ I see my professional growth in deepening expertise in advanced analytics, data-
 ## 🛠 Tech & Tools
 
 Analytics & BI: Excel (advanced), Power BI, DataLense
+
 Programming & Data: SQL, Python (pandas, NumPy, matplotlib, seaborn)
+
 Databases: PostgreSQL, MySQL
+
 Other tools: Jupyter Notebook, basic statistics & A/B testing
 
 ## 📫 How to reach me
