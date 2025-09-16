@@ -4,8 +4,8 @@ Hi, I’m Karina — a data analyst passionate about finding clarity in complexi
 
 ## 🎯 Motivation & Growth
 
-I’m motivated by challenges where analytics directly influences strategy and results. My experience in pharma (Dr. Reddy’s) taught me to work with complex datasets, translate insights for different audiences, and keep a balance between precision and creativity.
-I see my professional growth in deepening expertise in advanced analytics, data-driven decision making, and expanding into product & business intelligence roles.
+I enjoy challenges where numbers turn into real decisions. At Dr. Reddy’s, I learned how to work with diverse data sources, find clear patterns, and translate insights into stories that make sense.
+Going forward, I want to grow deeper in analytics — exploring new methods, mastering more BI tools, and making data even closer to business.
 
 ## 🛠 Tech & Tools
 
@@ -20,7 +20,9 @@ Other tools: Jupyter Notebook, basic statistics & A/B testing
 ## 📫 How to reach me
 
 LinkedIn: [ссылка]
+
 Telegram: https://t.me/kamitsa
+
 GitHub: [ссылка]
 
 ## 💼 Status
