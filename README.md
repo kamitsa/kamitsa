@@ -19,11 +19,9 @@ Other tools: Jupyter Notebook, basic statistics & A/B testing
 
 ## 📫 How to reach me
 
-LinkedIn: [ссылка]
+LinkedIn: https://www.linkedin.com/in/karinamitsyak/
 
 Telegram: https://t.me/kamitsa
-
-GitHub: [ссылка]
 
 ## 💼 Status
 
