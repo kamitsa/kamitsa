@@ -1,11 +1,11 @@
 ## 👋 About me
 
-Hi, I’m Karina — a data analyst passionate about finding clarity in complexity who believes numbers can tell beautiful stories
+Hi, I’m Karina - a data analyst passionate about finding clarity in complexity who believes numbers can tell beautiful stories
 
 ## 🎯 Motivation & Growth
 
 I enjoy challenges where numbers turn into real decisions. At Dr. Reddy’s, I learned how to work with diverse data sources, find clear patterns, and translate insights into stories that make sense.
-Going forward, I want to grow deeper in analytics — exploring new methods, mastering more BI tools, and making data even closer to business.
+Going forward, I want to grow deeper in analytics - exploring new methods, mastering more BI tools, and making data even closer to business.
 
 ## 🛠 Tech & Tools
 
@@ -31,7 +31,7 @@ Currently working at Dr. Reddy’s, open to discussing opportunities where I can
 
 ## ⚡ Fun fact
 
-I draw inspiration from contrasts — quiet sunsets by the sea and the dynamic rhythm of a big city.
+I draw inspiration from contrasts - quiet sunsets by the sea and the dynamic rhythm of a big city.
 
 <!--
 **kamitsa/kamitsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
