@@ -1,4 +1,4 @@
-## Hi there 👋 I am Karina and I am data analyst
+## Hi there 👋 I’m Karina - a data analyst who believes numbers can tell beautiful stories
 
 - 🔭 I’m currently working on exciting projects at Dr. Reddy’s
 - 🌱 I’m currently learning how to merge creativity with analytics to find elegant solutions for complex challenges
