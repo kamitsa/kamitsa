@@ -21,7 +21,7 @@ Other tools: Jupyter Notebook, basic statistics & A/B testing
 
 LinkedIn: [ссылка]
 
-Telegram: [[https://t.me/kamitsa]]
+Telegram: https://t.me/kamitsa
 
 GitHub: [ссылка]
 
